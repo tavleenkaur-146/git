@@ -1,1 +1,1 @@
-Git Demo class
+class 1 of git
